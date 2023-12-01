@@ -1,4 +1,4 @@
-nclude <linux/uaccess.h>
+#include <linux/uaccess.h>
 #include <linux/proc_fs.h>
 #include <linux/fs.h>
 #include <linux/kernel.h>
